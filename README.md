@@ -20,7 +20,7 @@
       <img alt="GitHub" src="https://img.shields.io/badge/Github-sentient_agi-181717?logo=github">
     </a>
     <a href="https://huggingface.co/Sentientagi" target="_blank" style="margin: 2px;">
-      <img alt="HF" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SentientAGI-ffc107?color=ffc107&logoColor=white>">
+      <img alt="HF" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-SentientAGI-ffc107?color=ffc107&logoColor=white">
     </a>
     <!-- License -->
     <a href="./LICENSE">
